@@ -11,7 +11,8 @@ import SwiftUI
 struct First_ProjectApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()   //Added some comments here
+            ContentView()       //Added some comments here
+                               //Comments here too
         }
     }
 }
